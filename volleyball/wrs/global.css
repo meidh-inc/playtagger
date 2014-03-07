@@ -1,0 +1,1072 @@
+/* CSS Feb 2010 */
+
+/* GLOBAL STUFF */
+
+body {
+ margin:0px;
+ background:url(https://p.secure.hostingprod.com/@site.worldrugbyshophosting.com/ssl/background-image/bg.jpg) center top no-repeat #000 fixed;
+}
+
+form {
+ margin:0px;
+}
+
+td {
+ font-family:arial,verdana;
+ font-size:12px;
+}
+
+a {
+ text-decoration:none;
+ color:#1097FF;
+}
+
+a:hover {
+ text-decoration:underline;
+}
+
+#holder {
+ background:#fff;
+}
+
+/* HEADER */
+
+
+#header { 
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/header-10-24-2011.jpg) top center repeat-y #000;   
+ width:1011px;
+ height:96px;
+ text-align:left;
+ margin-top:28px;
+}
+
+#top_header_fb {
+ position:absolute;
+ margin:-35px 0px 0px 0px;
+}
+
+#top_header_tw {
+ position:absolute;
+ margin:-35px 0px 0px 120px;
+}
+
+#header a { 
+ position:absolute;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);   
+ text-indent:-9999px;
+ overflow:hidden;
+}
+
+#a_cart {
+ position:absolute;
+ display:block;
+ margin-left:828px;
+ height:48px;
+ width:180px;
+ text-indent:-9999px;
+}
+
+#h_l_1 { 
+ width:555px; height:96px;
+ margin:0px 0px 0px 23px;
+}
+
+#header_intl {
+ position:absolute;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/header-8-17-2011--intl-shipping.jpg) top left no-repeat;
+ width:198px; height:15px;
+ margin:-30px 0px 0px 330px;
+}
+
+#h_l_2 { 
+ width:23px; height:13px;
+ margin:0px 0px 0px 26px;
+}
+
+#h_l_3 { 
+ width:23px; height:13px;
+ margin:0px 0px 0px 50px;
+}
+
+#h_l_4 { 
+ width:23px; height:13px;
+ margin:0px 0px 0px 0px;
+}
+
+#h_l_5 {
+ width:400px; height:92px;
+ margin:0px 0px 0px 610px;
+}
+
+#h_l_team_sales_tab {
+ position:absolute;
+ text-indent:-9999px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/team-sales-header-tab.png) top left no-repeat;
+ width:199px; height:29px;
+ margin:-124px 0px 0px 805px;
+}
+
+#h_l_mi_adidas {
+ position:absolute;
+ text-indent:-9999px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/miadidastab.png) top left no-repeat;
+ width:199px; height:29px;
+ margin:-124px 0px 0px 635px;
+}
+
+#h_l_playtagger {
+ position:absolute;
+ text-indent:-9999px;
+ background:url(http://rugbyapp.meidhtech.com/wrs/playtaggertab.png) top left no-repeat;
+ width:129px; height:29px;
+ margin:-124px 0px 0px 535px;
+}
+
+#topsearch {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/search-bg.jpg);
+ width:190px;
+ height:51px;
+ position:absolute;
+}
+
+#sli_search_1 {
+ position:absolute;
+ border-width:0px;
+ font-family:arial, verdana;
+ width:132px;
+ padding:0px;
+ margin:18px 0px 0px 10px;
+}
+
+#sli_search_button {
+ position:absolute;
+ margin:11px 0px 0px 150px;
+}
+
+#toplinks {
+ height:51px;
+ width:800px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/toplinks-bg.jpg) #000;  
+ overflow:hidden;
+ margin-left:190px;
+}
+
+#toplinks a {
+ display:block;
+ float:left;
+ margin-top:5px;
+ padding:12px 16px 15px 13px;
+ color:#fff;
+ font-size:13px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/toplinks-divider.jpg) top right no-repeat;
+}
+
+#toplinks a:hover {
+ color:#A0C51D;
+ text-decoration:none;
+}
+
+#toplinks #toplink_cs {
+ color:#ccc;
+}
+
+/* Holiday subheader */
+#holiday-subheader-holder {
+ height:55px;
+}
+
+#holiday-subheader {
+   /*background: url("http://www.worldrugbyshop.com/lib/yhst-3213199514187/gift-center-subhead-bg-2011.jpg") repeat scroll left top #C0A137;*/
+   background: url("http://www.worldrugbyshop.com/lib/yhst-3213199514187/holiday-top-nav2.png") no-repeat scroll left top;
+    height: 59px;
+}
+
+#holiday-subheader-title {
+ float:left;
+ width:165px; height:35px;
+}
+
+
+#holiday-subheader a {
+    color: #433101;
+    display: block;
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    margin-top: 12px;
+	padding: 9px 30px 10px 25px;
+	background: url("http://www.worldrugbyshop.com/lib/yhst-3213199514187/holiday-bread-sep.jpg") no-repeat right 0px;
+}
+
+#holiday-subheader a:last-child {
+	background:none !important;
+}
+
+
+
+/* Mini Cart in Header */
+
+#mini_cart_bg {
+ width:181px; height:51px;
+ position:absolute;
+ margin-left:830px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/minicart-8-17-2011.jpg) top left no-repeat;
+}
+
+#yfc_mini{
+ position:absolute;
+ margin-left:660px;
+ margin-top:20px;
+ color:#FFFFFD;
+ font-weight:bold;
+ font-size:11px;
+}
+
+#yfc_mymenu {
+ padding-left:0px;
+ margin-top:-3px;
+}
+
+#yfc_chkout {
+ width:80px;
+}
+
+#yfc_close_btn {
+ color:#fff;
+}
+
+.yui-dt-liner .price {
+ font-size:11px;
+ text-decoration:none;
+}
+
+/* MAIN BODY */
+
+#header-image-full-width { /* for full width top banners */
+    margin: -19px;
+    position: absolute;
+}
+
+#main {
+ float:right;
+ width:800px;
+ overflow:hidden;
+}
+
+#topfade {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/topfade.png) top left repeat-x;
+ height:15px;
+ width:822px;
+ margin:0px 0px 0px -20px;
+ position:absolute;
+}
+
+/* HOME PAGE */
+
+#home_top {
+ width:821px;
+ height:425px;
+ position:absolute;
+ margin-left:-19px;
+ //background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/home-rotator-area-bg.jpg) top left no-repeat;
+}
+
+#home_rotator_holder {
+ position:absolute;
+ margin:54px 0px 0px 40px;
+}
+
+#home_rotator_controls {
+ color:#fff;
+ position:absolute;
+ margin:339px 0px 0px 0px;
+ width:510px;
+}
+
+#home_rotator_controls .bl {
+ color:#A8D71A;
+}
+
+#home_prev {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/home-rotator-controls-sprites.gif) top left no-repeat;
+ width:8px; height:13px;
+ display:block;
+ margin-right:5px;
+}
+
+#home_next {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/home-rotator-controls-sprites.gif) top left no-repeat;
+ width:8px; height:13px;
+ display:block;
+ background-position:-15px 0px;
+ margin-left:5px;
+}
+
+#home_tile_1 {
+ position:absolute;
+ margin:28px 0px 0px 544px;
+}
+
+#home_tile_2 {
+ position:absolute;
+ margin:28px 0px 0px 685px;
+}
+
+#home_tile_3 {
+ position:absolute;
+ margin:172px 0px 0px 544px;
+}
+
+#home_tile_4 {
+ position:absolute;
+ margin:172px 0px 0px 685px;
+}
+
+#home_twitter {
+ position:absolute;
+ display:block;
+ text-indent:-9999px;
+ width:25px; height:25px;
+ margin:340px 0px 0px 757px; 
+}
+
+#home_facebook {
+ position:absolute;
+ display:block;
+ text-indent:-9999px;
+ width:25px; height:25px;
+ margin:340px 0px 0px 783px; 
+}
+
+#front_items {
+ margin-top:425px;
+}
+
+/* END HOME PAGE */
+
+/* all section and item pages */
+
+#breadcrumbs{
+ margin-top:15px;
+ font-size:12px;
+ color:#333;
+ font-weight:bold;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/breadbrumbs-bg.jpg) bottom left repeat-x;
+ padding:5px 0px 5px 0px;
+}
+
+#breadcrumbs a{
+ color: #333;
+ font-weight:normal;
+}
+
+/* ITEM PAGES */
+
+#r_c_inner {
+ width:800px;
+ overflow:hidden;
+}
+
+#item_page_inner {
+ width:758px;
+ overflow:hidden;
+ border:1px solid #bbb;
+ border-bottom-width:0px;
+ background:#fff;
+ margin-left:20px;
+}
+
+#item_page_inner td {
+ font-size:13px;
+}
+
+#item_page_bot {
+ height:19px;
+ margin-bottom:20px;
+ margin-left:20px;
+}
+
+#item_caption {
+ font-size:13px;
+}
+
+#item_caption li {
+ font-size:13px;
+}
+
+
+
+.sku  { margin-top:5px; margin-bottom:5px; font-size:11px; }
+
+.itemtitle { font-size:16px; font-weight:bold; margin:0px; }
+
+.contents { color:#3A3839;font-size:12px; }
+.sale-price-bold { color:#C11C1A; font-weight:bold; font-size:18px; }
+.price { text-decoration: line-through; font-size:18px;}
+.price-bold { font-weight:bold; font-size:18px;}
+.section-sale-price { font-weight:bold;color:#C11C1A }
+.section-price { font-weight:bold; }
+.section-reg-price { font-weight:normal; }
+
+.order-area { border-right:1px solid #A1A1A1; border-left:1px solid #A1A1A1; padding:2px; font-size:11px; }
+.order-area td { font-size:11px; }
+
+/* all section pages */
+
+.front_item {
+ float:left;
+ width:167px;
+ overflow:hidden;
+ margin:0px 5px 5px 20px;
+}
+
+.front_item  img  {
+ display:block;
+ margin-top:10px;
+ margin-bottom:15px;
+}
+
+.front_section {
+ float:left;
+ width:163px;
+ height:135px;
+ overflow:hidden;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/section-bg.jpg) top left no-repeat;
+ margin:10px 20px 10px 15px;
+ padding:0px;
+}
+
+.front_section_plain {
+ float:left;
+ width:163px;
+ height:135px;
+ overflow:hidden;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/section-bg-plain.jpg) top left no-repeat;
+ margin:10px 20px 10px 15px;
+ padding:0px;
+}
+
+.section_image {
+ text-align:center;
+ height:83px; 
+ width:143px;
+ overflow:hidden;
+ margin:10px;
+}
+
+.h2_section {
+ margin:2px 0px 0px 0px;
+ text-align:center;
+}
+
+.h2_section_plain {
+ margin:1px 0px 0px 0px;
+ text-align:center;
+}
+
+.h2_section a{
+ color:#fff;
+ font-size:11px;
+ font-weight:normal;
+ display:block;
+ padding: 0px 25px 0px 5px;
+}
+
+.h2_section_plain a{
+ color:#fff;
+ font-size:11px;
+ font-weight:normal;
+ display:block;
+ padding: 0px 5px 0px 5px;
+}
+
+.section_link_and_dd ul{
+ display:none;
+ position:absolute;
+ margin-top:0px;
+ width:123px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/ul-bottom.jpg) bottom left no-repeat #666;
+ list-style: none;
+ padding-bottom:
+}
+
+.section_link_and_dd:hover ul{
+ display:block;
+}
+
+.section_link_and_dd li{
+ margin:5px 5px 5px -30px;
+ padding:0px;
+}
+
+.section_link_and_dd a{
+ display:block;
+ color:#fff;
+ font-size:11px;
+}
+
+.h2_item {
+ margin:0px;
+ font-size:13px;
+ font-weight:normal;
+}
+
+.h2_item a {
+ color:#111;
+ font-family:arial;
+ font-size:13px;
+ font-weight:normal; 
+}
+
+#section_page {
+ margin:5px;
+}
+
+
+#fb-special {
+ position:absolute;
+ margin:3px 0px 0px 500px;
+}
+
+#tw-special {
+ position:absolute;
+ margin:3px 0px 0px 610px;
+}
+
+#sectionH1 {
+ border:1px solid #000;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/section-h1-bg.jpg) top left #333;
+ color:#fff;
+ font-size:14px;
+ font-weight:normal;
+ padding:5px;
+ text-transform:uppercase;
+ margin:0px;
+}
+
+#section_caption {
+ border:5px solid #ccc;
+ font-size:11px;
+ color:#333;
+ padding:10px;
+}
+
+#section_caption img {
+ margin:0px 5px 5px 0px;
+} 
+
+.section_divider {
+ clear:both;
+ height:1px;
+}
+
+/* =========== SORTING SECTION PAGES ============== */
+
+
+.section_item {
+ float:left;
+ text-align:center;
+ width:175px;
+ margin:10px;
+ font-size:11px;
+}
+
+.section_item a {
+ color:#222;
+}
+
+.section_image_1 {
+ height:125px;
+ margin:5px;
+}
+
+.section_price {
+ font-size:12px;
+}
+
+.strike_price {
+ text-decoration:line-through;
+ display:inline;
+}
+
+.sale_price {
+ font-weight:bold;
+ display:inline;
+ padding-left:10px;
+}
+
+#pagination_controls {
+ padding-top:10px;
+ padding-bottom:10px;
+ margin-left:10px;
+ margin-right:10px;
+ font-size:13px;
+ font-weight:bold;
+}
+
+#pagination_controls a {
+ color:#B2040E;
+ font-size:13px;
+ font-weight:bold;
+}
+
+#home_page_contents {
+ padding-top:20px;
+}
+
+#home_page_contents #pagination_controls {
+ display:none;
+}
+
+.section_divider {
+ height:1px;
+ border-top:1px solid #ccc;
+ clear:left;
+ margin:10px 6px 10px 6px;
+}
+
+/* pricing displays */
+
+.s_price {
+ font-size:12px;
+}
+
+.p_s {
+ color:#f00;
+}
+
+.p_r {
+ text-decoration:line-through;
+ margin-right:5px;
+}
+
+/* LEFTNAV */
+
+#main_area_td { /* make bg image take up entire height */
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/leftnav-background.jpg) top left repeat-y #fff;
+ padding-right:2px; /* this store only to correct alignment issue with header */
+}
+
+#leftnav {
+ float:left;
+ font-size:12px;
+ overflow-x:hidden;
+ overflow-y:hidden;
+ width:190px;
+}
+
+#leftnav a {
+ display:block;
+ font-family:arial, verdana;
+ margin-left:15px;
+ color:#fff;
+ font-weight:normal;
+ margin-top:3px;
+ margin-bottom:3px;
+ font-size:12px;
+ margin-right:0px;
+}
+
+#leftnav a:hover {
+ color:#349ADC;
+}
+
+#leftnav h2 {
+ display:block;
+ margin:0px;
+ text-indent:-9999px;
+ height:40px;
+}
+
+#ln_promotional {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/ln-promotional.jpg) top left no-repeat #048;
+ padding-bottom:10px;
+ padding-top:40px;
+ background-position:-10px -10px;
+}
+
+#ln_promotional a {
+ font-weight:bold;
+}
+
+#ln_promotional a:hover {
+ color:#fff;
+}
+
+#ln_get_ready {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/ln-get-ready.jpg) top left no-repeat;
+ padding-bottom:10px;
+ padding-top:0px;
+ background-position:0px -10px;
+}
+
+#ln_get_ready a {
+ font-weight:bold;
+}
+
+#ln_shop_by {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/ln-shop-by.jpg) top left no-repeat;
+ padding-bottom:10px;
+}
+
+#ln_departments {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/ln-departments.jpg) top left no-repeat;
+ padding-bottom:10px;
+}
+
+#ln_get_more {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/ln-get-more.jpg) top left no-repeat;
+}
+
+#ln_bottom_links {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/ln-bottom-links-bg.jpg) top left no-repeat;
+ height:280px;
+ width:190px;
+}
+
+#ln_bottom_links img {
+ border:0px;
+}
+
+#ln_bottom_links #ln_bottom_links_a_twitter {
+ position:absolute;
+ display:block;
+ background-image:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);
+ width:20px; height:20px;
+ margin-left:109px;
+ margin-top:40px;
+ text-indent:-9999px;
+}
+
+#ln_bottom_links #ln_bottom_links_a_fb {
+ position:absolute;
+ display:block;
+ background-image:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);
+ width:20px; height:20px;
+ margin-left:133px;
+ margin-top:40px;
+ text-indent:-9999px;
+}
+
+#ln_bottom_links #ln_bottom_links_a_1 {
+ position:absolute;
+ display:block;
+ background-image:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);
+ width:177px; height:55px;
+ margin-left:6px;
+ margin-top:77px;
+ text-indent:-9999px;
+}
+
+#ln_bottom_links #ln_bottom_links_a_2 {
+ position:absolute;
+ display:block;
+ background-image:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);
+ width:190px; height:45px;
+ margin-left:0px;
+ margin-top:160px;
+ text-indent:-9999px;
+}
+
+#ln_partners {
+ height:241px; width:177px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/wrs-partners.jpg) top left no-repeat;
+ margin:-10px 0px 0px 6px;
+ padding:0px;
+}
+
+#leftnav #ln_partners_WSS {
+ position:absolute;
+ margin:25px 0px 0px 2px;
+ width:174px; height:39px;
+ display:block; overflow:hidden;
+ text-indent:-100px; font-size:1px;
+}
+
+#leftnav #ln_partners_TFM {
+ position:absolute;
+ margin:65px 0px 0px 2px;
+ width:174px; height:40px;
+ display:block; overflow:hidden;
+ text-indent:-100px; font-size:1px;
+}
+
+#leftnav #ln_partners_WLS {
+ position:absolute;
+ margin:106px 0px 0px 2px;
+ width:174px; height:41px;
+ display:block; overflow:hidden;
+ text-indent:-100px; font-size:1px;
+}
+
+/* FOOTER */
+#footer_bg {
+ text-align:left;
+ width:1011px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/footer-bg-2011.jpg) top left no-repeat #000;
+ height:193px;
+}
+
+#footerOutlink1 {
+ position:absolute;
+ display:block;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);
+ width:64px; height:58px;
+ margin-left:142px;
+ text-indent:-9999px;
+}
+
+#footerOutlink2 {
+ position:absolute;
+ display:block;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);
+ width:66px; height:58px;
+ margin-left:206px;
+ text-indent:-9999px;
+}
+
+#footerOutlink3 {
+ display:block;
+ position:absolute;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/blank.gif);
+ width:68px; height:58px;
+ margin-left:272px;
+ text-indent:-9999px;
+}
+
+#footer_columns {
+ position:absolute;
+ margin-top:95px;
+}
+
+#footer_columns a {
+ color:#fff;
+ display:block;
+ margin-top:3px;
+ font-family:arial, verdana;
+ font-size:11px;
+}
+
+#footer_div_1 {
+ position:absolute;
+ width:219px;
+ margin-left:8px;
+ text-align:right; 
+}
+
+#footer_div_2 {
+ position:absolute;
+ width:239px;
+ margin-left:241px;
+ text-align:right; 
+}
+
+#footer_div_3 {
+ position:absolute;
+ width:244px;
+ margin-left:495px;
+ text-align:right; 
+}
+
+#footer_div_4 {
+ position:absolute;
+ width:219px;
+ margin-left:751px;
+ text-align:right; 
+}
+
+
+/* Extended footer, added July 2011 */
+
+#footer_extended {
+ background:#0E0E0E;
+ width:1011px;
+ text-align:left;
+}
+
+#footer_extended div a {
+ display:block;
+ color:#444;
+ font:11px arial;
+ text-align:right;
+}
+
+#f_e_pop {
+ float:right;
+ color:#8BB025;
+ margin:0px 30px 0px 0px;
+ text-transform:uppercase;
+ font:11px arial;
+}
+
+#f_e_divider_1 {
+ clear:right;
+ height:35px;
+}
+
+#footer_extended .f_e_col {
+ float:left;
+ width:196px;
+}
+
+#f_e_divider_2 {
+ clear:left;
+ height:35px;
+}
+
+/* RECENTLY VIEWED */
+
+#tabRecent {
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/recently-viewed-tab.jpg) top right no-repeat #666;
+ display:block;
+ width:118px;
+ height:14px;
+ margin:5px 0px 4px 0px;
+ text-indent:-9999px;
+}
+
+.path2 {
+ display:none;
+}
+
+.path1 {
+}
+
+#recent_items {
+ margin:5px;
+}
+
+#recent_items a{
+ font-size:10px;
+ color:#333;
+}
+
+#recent_title {
+
+ text-indent:-9999px;
+ background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/recently-viewed-header.jpg) top left no-repeat #fff;
+ height:34px;
+}
+
+#recent_items_holder div {
+ float:left;
+ text-align:center;
+ width:108px;
+ margin:10px;
+ font-size:11px;
+}
+
+#recent_items_holder img {
+ border:0px;
+}
+
+.holiday-2012-container{
+	width:822px;
+	float:left;
+}
+
+.holiday-contents{
+	background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/holiday-2012-contents-bg.jpg) repeat-y top left;
+	width:822px;
+	float:left;
+}
+
+.holiday-contents .each-holiday{
+	float:left;
+	padding-left: 12px;
+}
+
+.holiday-bottom{
+	background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/holiday-2012-bottom-bg.jpg) no-repeat top right;
+	width:819px;
+	height:283px;
+	float:right;
+}
+
+.holiday-bottom .holiday-bottom-left{
+	float:left;
+	width:232px;
+	padding-top: 20px;
+	padding-left: 20px;
+}
+
+.holiday-bottom .holiday-bottom-right{
+	float:left;
+	width:406px;
+	padding-top:95px;
+	padding-left:65px;
+}
+
+#each-holiday-4{
+	padding-left:7px;
+	padding-top: 15px;
+}
+
+#each-holiday-5{
+	padding-left: 22px;
+	padding-top: 15px;
+}
+
+#each-holiday-7{
+	padding-left: 0px;
+}
+
+#holiday-subheader-title{
+	width:158px;	
+}
+
+.holiday-subheader-select{
+	float:left;
+	padding-top: 16px;
+	padding-left: 8px;
+	padding-top: 18px\9;
+	padding-left: 18px\9;
+	width:180px;
+}
+
+.holiday-2012-container #home-rotator-controls{
+	background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/holiday-below-rotator-bg.jpg) no-repeat top right;
+	width:122px;
+	height:23px;
+	float:right;
+	text-align:right;
+	padding-left: 700px;
+	padding-top: 11px;
+}
+
+.holiday-2012-container #home-rotator-controls a{
+		
+}
+
+.holiday-2012-container #home-rotator-controls span.c1{
+	background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/holiday-btn-off.gif) no-repeat top right;
+	display:block;
+	width:11px;
+	height:10px;
+	float:left;
+}
+
+.holiday-2012-container #home-rotator-controls span.c2{
+	background:url(http://www.worldrugbyshop.com/lib/yhst-3213199514187/holiday-btn-on.gif) no-repeat top right;
+	display:block;
+	width:11px;
+	height:10px;
+	float:left;
+}
+
+.holiday-2012-main{
+	width:822px !important;
+	margin-left:	
+}
+
+.holiday-2012-main-container{
+	padding-right:0px !important;
+}
+
+.holiday-2012-leftnav{
+	width: 189px !important;
+}
+
+.holiday-2012-main #topfade{
+	display:none;
+}
